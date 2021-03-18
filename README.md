@@ -20,4 +20,4 @@
 
 * * *
 
-<img width="200" height="200" src=".pic/곰돌2.jpg"></img>
+<img width="" height="" src="./png/곰돌이.png"></img>
