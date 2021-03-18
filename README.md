@@ -20,4 +20,5 @@
 
 * * *
 
-<img width="" height="" scr=".png/곰돌.jpg"></img>
+<img width="300" height="300" scr=".pic/곰돌2.jpg"></img>
+
